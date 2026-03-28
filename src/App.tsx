@@ -4,7 +4,7 @@ function App() {
   return (
     <main className="main">
       <div className="imageContainer">
-        <img src="/logo_black.png" alt="logo" />
+        <img src="/logo_orange.jpg" alt="logo" />
       </div>
       <p className="english">
         Website is currently under construction, and it will be available soon
